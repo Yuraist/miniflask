@@ -36,4 +36,8 @@ You need the **views.py** file to manage all the routes for your application. Th
 ### app/models.py
 You need the **models.py** file for representation the database tables in code. Now the file is empty, cause there is no database.
 
+### app/static
+You should store your static files (like css, js or img files) here.
 
+### app/templates
+You should store your html templates here.
